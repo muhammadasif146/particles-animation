@@ -1,4 +1,4 @@
-# animation1
+# particle animation with custom painter
 
 A new Flutter project.
 
